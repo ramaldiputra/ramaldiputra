@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+My name is Ramaldi Putra. I'm learning to be Full-Stack developer and Game Developer.
 <!--
 **ramaldiputra/ramaldiputra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
